@@ -130,6 +130,7 @@ PlayerSettings:
   bundleVersion: 0.1
   preloadedAssets:
   - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 4800000, guid: e7c77f6eaab324a819efdc13b8125a39, type: 3}
   - {fileID: -7479341934665344595, guid: e2f869774b12e400996eb546603602e3, type: 2}
   metroInputSource: 0
@@ -515,7 +516,7 @@ PlayerSettings:
   enableInternalProfiler: 0
   logObjCUncaughtExceptions: 1
   enableCrashReportAPI: 0
-  cameraUsageDescription: Camera required for AR
+  cameraUsageDescription: "\u30AB\u30E1\u30E9\u306E\u4F7F\u7528\u3092\u8A31\u53EF\u3057\u3066\u304F\u3060\u3055\u3044"
   locationUsageDescription: Required for Geo Anchors
   microphoneUsageDescription: 
   switchNMETAOverride: 
@@ -655,8 +656,6 @@ PlayerSettings:
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchPlayerConnectionEnabled: 1
   switchUseNewStyleFilepaths: 0
-  switchUseMicroSleepForYield: 1
-  switchMicroSleepForYieldTime: 25
   ps4NPAgeRating: 12
   ps4NPTitleSecret: 
   ps4NPTrophyPackPath: 
